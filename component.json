@@ -3,7 +3,7 @@
   "name": "google-analytics",
   "repo": "logo/google-analytics",
   "description": "The Google Analytics logo.",
-  "version": "0.0.2",
+  "version": "0.2.0",
   "license": "MIT",
   "styles": [
     "style.css"
